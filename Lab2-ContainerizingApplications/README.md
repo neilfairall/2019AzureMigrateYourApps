@@ -226,9 +226,9 @@ The inventory service needs to be pointed to the SQL Database that now lives in 
 
 The last thing we need to do is to tell our front end web site the URL's to our web services for product and inventory.  
 
-##### Get base URL's
+##### Get base URLs
 
-You can get the base URL's for inventory and product services by clicking on their overview page and looking at the URL property on the right hand side.
+You can get the base URLs for inventory and product services by clicking on their overview page and looking at the URL property on the right hand side.
 
 1. Click on resource groups -> (your resource group)
 2. Click on your inventory or product service resource of type 'App Service'
